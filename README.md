@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/R-Studio-blue" alt=""/>
 </div>
 
-#### ETAPAS DE CRIAÇÃO DO PROJETO - INTEGRAÇÃO GITHUB/IDE
+#### ETAPAS DE CRIAÇÃO DO PROJETO - INTEGRAÇÃO GITHUB/SERVIDOR/IDE
 
 Crie o repositório do projeto no GitHub;
 
