@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/R-Studio-blue" alt=""/>
 </div>
 
-#### ETAPAS DE CRIAÇÃO DO PROJETO
+#### ETAPAS DE CRIAÇÃO DO PROJETO - INTEGRAÇÃO GITHUB/IDE
+
 Crie o repositório do projeto no GitHub;
 
     test_project
@@ -25,9 +26,8 @@ Utilize um terminal para acessar via SSH o servidor remoto;
     [sudo] password for dev: ****
     luciolemos@88.198.104.148's password: ****
 Clone diretamente na raiz `/var/www`do servidor, utilizando a opção SSH;
-                
     luciolemos@cloud18344:~$ cd /var/www
-    luciolemos@cloud18344:/var/www$ sudo git clone git@github.com:luciolemos/test_project.git
+    luciolemos@cloud18344:/var/www$ sudo git clone [git@github.com:luciolemos/test_project.git]
 Observe o proprietário do diretório criado em /var/www. O Composer oferece restrições quanto a trabalhar com o root.
 
     luciolemos@cloud18344:/var/www$ ls -l
