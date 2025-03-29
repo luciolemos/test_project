@@ -1,0 +1,18 @@
+{
+    "name": "luciolemos/test_project",
+    "description": "Projeto de teste.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Luciolemos\\TestProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucio Lemos"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
